@@ -1,4 +1,4 @@
-# SFT-GeodesicMARS-Goal-Crystallization
+# UnreliableNarrators Dataset
 SFT dataset for faking alignment (MARS program submission)
 
 # Narrative Alignment Faking Dataset
